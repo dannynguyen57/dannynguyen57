@@ -23,8 +23,8 @@ Feel free to explore my repositories and check out the projects that interest yo
 
 ## Let's Connect
 I'm always open to networking and collaborating with other developers and enthusiasts in the AR/VR community. You can find me on:
-- [LinkedIn](https://www.linkedin.com/in/immersivedanny/)
-- [Personal Website/Portfolio](https://immersivexrdanny.com/)
+- [LinkedIn](https://www.linkedin.com/in/dannyxr/)
+- [Personal Website/Portfolio](https://dannyxr.com/)
 
 Thanks for visiting my GitHub profile, and I hope you find something interesting here!
 
