@@ -60,9 +60,9 @@ Immersive virtual experience for workplace hazard identification & response
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannyxr&show_icons=true&theme=radical" alt="Danny's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dannynguyen56&show_icons=true&theme=radical" alt="Danny's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannyxr&theme=react-dark" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannynguyen57&theme=react-dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
