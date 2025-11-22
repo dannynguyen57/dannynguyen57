@@ -1,80 +1,78 @@
-<!-- Parallax-style banner -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/111776295/224555287-f47f697e-2818-476d-bb23-77aab16f3e43.gif" width="100%" alt="Parallax XR Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Danny Nguyen! 👋</h1>
-<p align="center">
-  <em>XR Developer • Creative Technologist • 3D Enthusiast</em>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;XR+Developer;Founder+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
 
-<p align="center">
-  🚀 Welcome to my GitHub – a creative playground where Augmented Reality (AR) and Virtual Reality (VR) come alive through immersive code and design.
-</p>
+  <p>
+    <em>Building the future of spatial computing, one pixel at a time.</em>
+  </p>
 
----
+  <p>
+    <a href="https://www.linkedin.com/in/dannyxr/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://dannyxr.com/">
+      <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:info@dannyxr.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
-## 🔍 About Me
-
-I'm an **XR Developer** with a passion for turning complex problems into captivating real-time experiences using AR and VR. With a solid foundation in **Creative Technologies** and **Game Development**, I love building experimental, playful, and purposeful digital worlds.
-
-👾 Whether it’s **AR scavenger hunts**, **VR training simulators**, or **AI-assisted tools**, I’m all about blending creativity with code.
-
----
-
-## 🛠️ Technologies & Tools I Work With
-
-**AR/VR Platforms**  
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/> <img src="https://img.shields.io/badge/ARKit-black?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-**Languages & Frameworks**  
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-**Databases & APIs**  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=swagger&logoColor=white"/>
-
-**Cloud & DevOps**  
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
-**Design & Modeling**  
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
 
 ---
 
-## 📦 Featured Projects
+## 🚀 About Me
 
-🧠 **POLO: AR Geo-Hunt App**  
-Gamified location-based AR scavenger hunt with Firebase + ARCore Geospatial
+I am an **XR Developer** and **Founder** based in Melbourne, focusing on the intersection of gameplay, social deduction, and immersive technology. 
 
-🎮 **Energy Recharge Game**  
-Unity mini-game for corporate events — time-based tapping with real-time effects and rewards
-
-🌸 **AR Floral Canvas**  
-Image tracking-based Unity project where tracked art reveals animated 3D flowers
-
-📚 **VR Safety Training Simulator**  
-Immersive virtual experience for workplace hazard identification & response
+Currently, I am building **IMME Studios**, where we are developing AI-driven educational experiences and social deduction games like **Word Sus**. My goal is to move beyond simple prototypes and build scalable, purposeful digital worlds.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ The Stack
+
+<div align="center">
+
+| **Core Engines** | **Languages** | **Backend & Cloud** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=unity,unreal" /> | <img src="https://skillicons.dev/icons?i=cs,cpp,ts,py" /> | <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp" /> |
+
+<br/>
+
+**Design & Tools** <br/>
+<img src="https://skillicons.dev/icons?i=blender,figma,git,vscode" />
+
+</div>
+
+---
+
+## 🏆 Selected Works
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Word Sus / IMME Studios**<br>*(Current Focus)* | A social deduction game blending AI mechanics with gameplay. Establishing the technical foundations for a play-to-learn startup. | `Unity` `Supabase` `AI Integration` |
+| **POLO: AR Geo-Hunt** | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. | `ARCore` `Firebase` `Google Maps API` |
+| **VR Safety Training** | An immersive simulation for workplace hazard identification, focusing on realistic physics and user interaction. | `Unity` `XR Interaction Toolkit` |
+| **AR Floral Canvas** | An artistic image-tracking experience where physical art reveals animated 3D floral overlays. | `AR Foundation` `Blender` |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dannynguyen57&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannynguyen57&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannynguyen57&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannynguyen57&show_icons=true&theme=radical" alt="Danny's GitHub stats"/>
+  Let's build something impossible. 
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannynguyen57&theme=react-dark" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-I love meeting other creators, coders, designers, and thinkers in the immersive tech space.
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dannyxr/)
-- 🌐 [Portfolio Website](https://dannyxr.com/)
-- 📨 [Email](mailto:info@dannyxr.com)
-
-<p align="center">
-  <b>✨ Thanks for visiting — let's build the future of together! ✨</b>
+  &copy; 2025 Danny Nguyen
 </p>
