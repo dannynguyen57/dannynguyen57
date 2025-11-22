@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;XR+Developer;Founder+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;XR+Developer;Random+Guy+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
 
   <p>
     <em>Building the future of spatial computing, one pixel at a time.</em>
@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 
-I am an **XR Developer** and **Founder** based in Melbourne, focusing on the intersection of gameplay, social deduction, and immersive technology. 
+I am an **XR Dev** and **Game Dev** based in Melbourne, focusing on the intersection of gameplay, social deduction, and immersive technology. 
 
-Currently, I am building **IMME Studios**, where we are developing AI-driven educational experiences and social deduction games like **Word Sus**. My goal is to move beyond simple prototypes and build scalable, purposeful digital worlds.
+Currently, I am building social deduction games like **Word Sus**. My goal is to move beyond simple prototypes and build scalable, purposeful digital worlds.
 
 ---
 
@@ -51,7 +51,7 @@ Currently, I am building **IMME Studios**, where we are developing AI-driven edu
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Word Sus / IMME Studios**<br>*(Current Focus)* | A social deduction game blending AI mechanics with gameplay. Establishing the technical foundations for a play-to-learn startup. | `Unity` `Supabase` `AI Integration` |
+| **Word Sus** | A social deduction game blending AI mechanics with gameplay. Establishing the technical foundations for a play-to-learn startup. | `Unity` `TypeScript` |
 | **POLO: AR Geo-Hunt** | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. | `ARCore` `Firebase` `Google Maps API` |
 | **VR Safety Training** | An immersive simulation for workplace hazard identification, focusing on realistic physics and user interaction. | `Unity` `XR Interaction Toolkit` |
 | **AR Floral Canvas** | An artistic image-tracking experience where physical art reveals animated 3D floral overlays. | `AR Foundation` `Blender` |
