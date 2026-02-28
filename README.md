@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://dannyxr.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;Software+Engineer+%26+Founder;Building+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;Software+Engineer;Full-Stack+%26+XR+Developer;Building+%40+IMME+Studios" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -24,19 +24,19 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Overview
 
-I am a Melbourne-based **Software Engineer** and the founder of **IMME Studios**. My engineering philosophy centers on building purposeful, scalable digital products that solve real-world problems. My day-to-day involves architecting full-stack web platforms, integrating AI into stealth applications, and developing immersive spatial experiences.
+I am a Melbourne-based **Software Engineer** focused on building purposeful, scalable digital products. My daily work involves architecting full-stack web platforms, integrating AI into stealth applications, and developing immersive spatial experiences at **IMME Studios**. 
 
-When I'm not writing code or mentoring IT students, I'm likely researching new AI coding models, fleshing out design concepts for *The Storyteller*, or geeking out over classic JDM cars (specifically tracking down the perfect FD RX-7 or Supra MK4).
+With a strong foundation in interactive media and system architecture, I specialize in bridging the gap between complex backend infrastructure and seamless, highly interactive user experiences.
 
 ---
 
 ### ⚡ Current Focus
 
-- 🏢 **Engineering:** Architecting frontend and backend infrastructure for unannounced full-stack and AI-driven platforms at IMME Studios.
-- 🧠 **Exploring:** Leveraging advanced LLMs like Claude Sonnet 4.5 and Kimi 2.5 to optimize development workflows.
-- 🎮 **Developing:** Building the scalable multiplayer architecture for **Word Sus**, a play-to-learn social deduction experience.
+- 🏢 **Engineering:** Architecting robust frontend and backend infrastructure for unannounced full-stack and AI-driven platforms.
+- 🧠 **Optimization:** Leveraging advanced LLMs like Claude Sonnet 4.5 and Kimi 2.5 to accelerate development workflows and automate logic.
+- 🎮 **System Design:** Building scalable multiplayer architecture and networking foundations for interactive environments.
 
 ---
 
@@ -57,8 +57,8 @@ When I'm not writing code or mentoring IT students, I'm likely researching new A
 
 | Project | Domain | Description |
 | :--- | :--- | :--- |
-| **Word Sus** | `Game Architecture` | A social deduction game blending AI mechanics with multiplayer networking to establish foundations for a play-to-learn startup. |
-| **The Storyteller** | `Interactive Media` | An early-stage project focusing on immersive narrative, system design, and interactive development. |
+| **Word Sus** | `Game Architecture` | A social deduction game blending AI mechanics with multiplayer networking to establish foundations for a play-to-learn environment. |
+| **Lonely Penguin** | `Game Architecture` | An early-stage interactive project focusing on complex narrative trees, system design, and spatial development. |
 | **POLO: AR Geo-Hunt** | `XR / ARCore` | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. |
 | **VR Safety Training** | `VR / Simulation` | An immersive simulation for workplace hazard identification, focusing on realistic physics and user interaction. |
 
@@ -77,5 +77,5 @@ When I'm not writing code or mentoring IT students, I'm likely researching new A
 <div align="center">
   <i>"Building the future of spatial computing and intelligent web, one commit at a time."</i>
   <br/>
-  &copy; 2026 Danny Nguyen • IMME Studios
+  &copy; 2026 Danny Nguyen
 </div>
