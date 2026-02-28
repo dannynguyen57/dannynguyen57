@@ -1,12 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;Software+Engineer;Founder+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
+  <a href="https://dannyxr.com/">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;Software+Engineer+%26+Founder;Building+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
+  </a>
 
-  <p>
-    <em>Engineering scalable solutions across Web, AI, and Spatial Computing.</em>
+  <p align="center">
+    <b>Architecting scalable solutions across Web, AI, and Spatial Computing.</b>
   </p>
 
-  <p>
+  <p align="center">
     <a href="https://www.linkedin.com/in/dannyxr/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -22,58 +24,58 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I am a **Software Engineer** and **Creative Technologist** based in Melbourne, Australia. As the founder of **IMME Studios**, my work spans across full-stack development, artificial intelligence, and immersive technologies (XR). 
+I am a Melbourne-based **Software Engineer** and the founder of **IMME Studios**. My engineering philosophy centers on building purposeful, scalable digital products that solve real-world problems. My day-to-day involves architecting full-stack web platforms, integrating AI into stealth applications, and developing immersive spatial experiences.
 
-While I have a strong foundation in interactive media and game development, my primary focus is on building purposeful, scalable digital products that solve real-world problems. Whether it's architecting AI-driven marketing tools, developing EdTech platforms, or mentoring the next generation of IT students, I am driven by innovation and solid technical execution.
+When I'm not writing code or mentoring IT students, I'm likely researching new AI coding models, fleshing out design concepts for *The Storyteller*, or geeking out over classic JDM cars (specifically tracking down the perfect FD RX-7 or Supra MK4).
 
 ---
 
-## 🛠️ The Stack
+### ⚡ Current Focus
+
+- 🏢 **Engineering:** Architecting frontend and backend infrastructure for unannounced full-stack and AI-driven platforms at IMME Studios.
+- 🧠 **Exploring:** Leveraging advanced LLMs like Claude Sonnet 4.5 and Kimi 2.5 to optimize development workflows.
+- 🎮 **Developing:** Building the scalable multiplayer architecture for **Word Sus**, a play-to-learn social deduction experience.
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| **Core & Engines** | **Languages** | **Backend & Cloud** | **Web & Design** |
+| **Languages & Core** | **Web & Cloud** | **Spatial & XR** | **Tools & Workflows** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=unity,unreal" /> | <img src="https://skillicons.dev/icons?i=ts,py,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" /> |
+| <img src="https://skillicons.dev/icons?i=ts,py,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,supabase,gcp" /> | <img src="https://skillicons.dev/icons?i=unity,unreal,blender" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /> |
+| TypeScript, Python, C#, C++ | React, Next.js, Supabase, GCP | Unity, Unreal Engine, Blender | Git, GitHub, VS Code, Figma |
+
+</div>
+
+---
+
+### 🏆 Featured Ecosystem
+
+| Project | Domain | Description |
+| :--- | :--- | :--- |
+| **Word Sus** | `Game Architecture` | A social deduction game blending AI mechanics with multiplayer networking to establish foundations for a play-to-learn startup. |
+| **The Storyteller** | `Interactive Media` | An early-stage project focusing on immersive narrative, system design, and interactive development. |
+| **POLO: AR Geo-Hunt** | `XR / ARCore` | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. |
+| **VR Safety Training** | `VR / Simulation` | An immersive simulation for workplace hazard identification, focusing on realistic physics and user interaction. |
+
+---
+
+### 📈 GitHub Contributions
+
+<div align="center">
+  <a href="https://github.com/dannynguyen57">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dannynguyen57&theme=transparent&hide_border=true&stroke=0000&background=00000000&ring=3ECF8E&fire=3ECF8E&currStreakNum=ffffff&currStreakLabel=3ECF8E&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</div>
 
 <br/>
 
-**Tools & Workflows** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,blender" />
-
-</div>
-
----
-
-## 🏆 Selected Works
-
-| Project | Description | Domain |
-| :--- | :--- | :--- |
-| **MITPO** | *Marketing in the Pocket.* An AI-powered marketing tool currently in development, designed to streamline and automate digital marketing workflows. | `AI` `SaaS` |
-| **Olympr** | A comprehensive web application built to help users seamlessly track and navigate the Australian Permanent Residency (PR) pathway. | `Web App` `Full-Stack` |
-| **Deruse** | An innovative EdTech platform focused on delivering accessible, interactive, and technology-driven learning experiences. | `EdTech` `Web` |
-| **Word Sus** | A scalable social deduction game blending AI mechanics with gameplay to establish the technical foundations for a play-to-learn environment. | `Game Dev` `TypeScript` |
-| **POLO: AR Geo-Hunt** | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. | `XR` `ARCore` |
-
----
-
-## 📊 GitHub Activity
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannynguyen57&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannynguyen57&layout=compact&theme=transparent&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dannynguyen57&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<p align="center">
-  Let's build something impossible. 
+  <i>"Building the future of spatial computing and intelligent web, one commit at a time."</i>
   <br/>
-  &copy; 2026 Danny Nguyen
-</p>
+  &copy; 2026 Danny Nguyen • IMME Studios
+</div>
