@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;XR+Developer;Random+Guy+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danny+Nguyen+%F0%9F%91%8B;Software+Engineer;Founder+%40+IMME+Studios;Creative+Technologist" alt="Typing SVG" />
 
   <p>
-    <em>Building the future of spatial computing, one pixel at a time.</em>
+    <em>Engineering scalable solutions across Web, AI, and Spatial Computing.</em>
   </p>
 
   <p>
@@ -24,9 +24,9 @@
 
 ## 🚀 About Me
 
-I am an **XR Dev** and **Game Dev** based in Melbourne, focusing on the intersection of gameplay, social deduction, and immersive technology. 
+I am a **Software Engineer** and **Creative Technologist** based in Melbourne, Australia. As the founder of **IMME Studios**, my work spans across full-stack development, artificial intelligence, and immersive technologies (XR). 
 
-Currently, I am building social deduction games like **Word Sus**. My goal is to move beyond simple prototypes and build scalable, purposeful digital worlds.
+While I have a strong foundation in interactive media and game development, my primary focus is on building purposeful, scalable digital products that solve real-world problems. Whether it's architecting AI-driven marketing tools, developing EdTech platforms, or mentoring the next generation of IT students, I am driven by innovation and solid technical execution.
 
 ---
 
@@ -34,14 +34,14 @@ Currently, I am building social deduction games like **Word Sus**. My goal is to
 
 <div align="center">
 
-| **Core Engines** | **Languages** | **Backend & Cloud** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=unity,unreal" /> | <img src="https://skillicons.dev/icons?i=cs,cpp,ts,py" /> | <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp" /> |
+| **Core & Engines** | **Languages** | **Backend & Cloud** | **Web & Design** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=unity,unreal" /> | <img src="https://skillicons.dev/icons?i=ts,py,cs,cpp" /> | <img src="https://skillicons.dev/icons?i=supabase,firebase,gcp" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" /> |
 
 <br/>
 
-**Design & Tools** <br/>
-<img src="https://skillicons.dev/icons?i=blender,figma,git,vscode" />
+**Tools & Workflows** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender" />
 
 </div>
 
@@ -49,12 +49,13 @@ Currently, I am building social deduction games like **Word Sus**. My goal is to
 
 ## 🏆 Selected Works
 
-| Project | Description | Tech Stack |
+| Project | Description | Domain |
 | :--- | :--- | :--- |
-| **Word Sus** | A social deduction game blending AI mechanics with gameplay. Establishing the technical foundations for a play-to-learn startup. | `Unity` `TypeScript` |
-| **POLO: AR Geo-Hunt** | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. | `ARCore` `Firebase` `Google Maps API` |
-| **VR Safety Training** | An immersive simulation for workplace hazard identification, focusing on realistic physics and user interaction. | `Unity` `XR Interaction Toolkit` |
-| **AR Floral Canvas** | An artistic image-tracking experience where physical art reveals animated 3D floral overlays. | `AR Foundation` `Blender` |
+| **MITPO** | *Marketing in the Pocket.* An AI-powered marketing tool currently in development, designed to streamline and automate digital marketing workflows. | `AI` `SaaS` |
+| **Olympr** | A comprehensive web application built to help users seamlessly track and navigate the Australian Permanent Residency (PR) pathway. | `Web App` `Full-Stack` |
+| **Deruse** | An innovative EdTech platform focused on delivering accessible, interactive, and technology-driven learning experiences. | `EdTech` `Web` |
+| **Word Sus** | A scalable social deduction game blending AI mechanics with gameplay to establish the technical foundations for a play-to-learn environment. | `Game Dev` `TypeScript` |
+| **POLO: AR Geo-Hunt** | A location-based AR scavenger hunt using geospatial data to anchor digital assets to the real world. | `XR` `ARCore` |
 
 ---
 
@@ -74,5 +75,5 @@ Currently, I am building social deduction games like **Word Sus**. My goal is to
 <p align="center">
   Let's build something impossible. 
   <br/>
-  &copy; 2025 Danny Nguyen
+  &copy; 2026 Danny Nguyen
 </p>
