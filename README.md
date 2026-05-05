@@ -7,8 +7,6 @@
 <p>
   <a href="https://www.linkedin.com/in/dannyxr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://dannyxr.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  &nbsp;
   <a href="mailto:info@dannyxr.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
