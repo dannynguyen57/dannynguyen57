@@ -31,7 +31,7 @@ Melbourne-based software engineer focused on building scalable digital products 
 | | |
 |---|---|
 | **Languages** | TypeScript · Python · C# · C++ |
-| **Web & Cloud** | React · Next.js · Supabase · GCP |
+| **Web & Cloud** | React · Next.js, Golang · GCP |
 | **Spatial & XR** | Unity · Unreal Engine · Blender · ARCore |
 | **Tooling** | Git · GitHub · VS Code · Figma |
 
